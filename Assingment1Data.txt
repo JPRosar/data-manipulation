@@ -1,0 +1,93 @@
+DALLAS COLLEGE COMPUTER SCIENCE 
+
+Computer Science
+Computer science is the study of computers and computational systems. A discipline including theory and practice, it includes the study of methods for processing digital information, and the design of computer hardware and software along with the applications of computers. It requires thinking both in abstract and concrete terms. Computer science has a stronger foundation in math than in science.
+Computer science courses are listed under the four-letter rubrics (course prefixes) BCIS and COSC. Note that all courses may not be offered at every Dallas College campus.
+Guided Pathways are maps that show you what classes you will take, and when. View Guided Pathways
+Which classes are available?
+How much money will it cost?
+Will these classes transfer?
+ 
+At These Campuses:
+Brookhaven
+Cedar Valley
+Eastfield
+El Centro
+Mountain View
+North Lake
+Richland
+
+
+2020 - 2021 Catalog
+Course Descriptions for COSC
+Course Description Index | Degree Plans
+Course Description Help Page
+
+Course Number: COSC 1301 (3 Credit Hours)
+Listed by Campus(es): BHC, CVC, EFC, ECC, MVC, NLC, RLC
+Course Title:Introduction to Computing
+This is a Texas Common Course Number.
+Course Description: Overview of computer systems hardware, operating systems, and microcomputer application software, including the Internet, word processing, spreadsheets, presentation graphics, and databases. Current issues such as the effect of computers on society, and the history and use of computers in business, educational, and other modern settings are also studied. This course is not intended to count toward a student''s major field of study in business or computer science. This course will fulfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (2 Lec., 2 Lab.)
+Coordinating Board Academic Approval Number 1101015107
+Search for COSC 1301 classes
+
+Course Number: COSC 1315 (3 Credit Hours)
+Listed by Campus(es): BHC, EFC, ECC, MVC, RLC
+Course Title:Introduction to Computer Programming
+This is a Texas Common Course Number.
+Course Description: Introduction to computer programming for solving a variety of problems. This course is intended for non-computer science and non-computer engineering majors. Emphasis on the fundamentals of design, development, testing, implementation, and documentation of computer programs. Includes problem solving with structured techniques and algorithms using pseudo code and/or graphical representations. This course may use instructional examples and assignments from various programming languages, including but not limited to C, Objective-C, C++, C##, and/or Java. COSC 1315 will satisfy the Associate of Science degree general elective requirement. This course will fulfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (3 Lec., 1 Lab.)
+Coordinating Board Academic Approval Number 1102015207
+Search for COSC 1315 classes
+
+Course Number: COSC 1420 (4 Credit Hours) New course added April 5, 2020
+Listed by Campus(es): BHC, CVC, EFC, ECC, MVC, NLC, RLC
+Course Title:C Programming
+This is a Texas Common Course Number.
+Course Description: Introduces the fundamental concepts of structured programming in the C language. Topics include data types; control structures; functions, structures, arrays, pointers, pointer arithmetic, unions, and files; the mechanics of running, testing, and debugging programs; introduction to programming; and introduction to the historical and social context of computing. (3 Lec., Lab.)
+Coordinating Board Academic Approval Number 1102015207
+Search for COSC 1420 classes
+
+Course Number: COSC 1436 (4 Credit Hours)
+Listed by Campus(es): BHC, CVC, EFC, ECC, MVC, NLC, RLC
+Course Title:Programming Fundamentals I
+This is a Texas Common Course Number.
+Course Description: This course introduces the fundamental concepts of structured programming, and provides a comprehensive introduction to programming for computer science and technology majors. Topics include software development methodology, data types, control structures, functions, arrays, and the mechanics of running, testing, and debugging. This course may use instructional examples and assignments form various programming languages including but not limited to C, Objective-C, C++, and/or Java. This course assumes computer literacy. (This course is included in the Field of Study Curriculum for Computer Science.) COSC 1436 will satisfy the Associate in Sciences degree general elective requirement. This course will fulfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (3 Lec., 3 Lab.)
+Coordinating Board Academic Approval Number 1102015507
+Search for COSC 1436 classes
+
+Course Number: COSC 1437 (4 Credit Hours)
+Listed by Campus(es): BHC, CVC, EFC, ECC, MVC, NLC, RLC
+Course Title:Programming Fundamentals II
+This is a Texas Common Course Number.
+Prerequisite Required: COSC 1436 and MATH 1314 or higher.
+Course Description: This course focuses on the object-oriented programming paradigm, emphasizing the definition and use of classes along with fundamentals of object-oriented design. The course includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering processes. Students will apply techniques for testing and debugging software. This course may use instructional examples and assignments form various programming languages including but not limited to C, Objective-C, C++, and/or Java. (This course is included in the Field of Study Curriculum for Computer Science.) COSC 1437 will satisfy the Associate in Sciences degree general elective requirement. This course will fullfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (3 Lec., 3 Lab.)
+Coordinating Board Academic Approval Number 1102015607
+Search for COSC 1437 classes
+
+Course Number: COSC 2425 (4 Credit Hours)
+This course is not currently offered by Richland Campus.
+Listed by Campus(es): BHC, ECC, NLC
+Course Title:Computer Organization
+This is a Texas Common Course Number.
+Prerequisite Required: COSC 1436.
+Course Description: The organization of computer systems is introduced using assembly language. Topics include basic concepts of computer architecture and organization, memory hierarchy, data types, computer arithmetic, control structures, interrupt handling, instruction sets, performance metrics, and the mechanics of testing and debugging computer systems. Embedded systems and device interfacing are introduced. (This course is included in the Field of Study Curriculum for Computer Science.) COSC 2425 will satisfy the Associate in Sciences degree general elective requirement. This course will fullfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (3 Lec., 3 Lab.)
+Coordinating Board Academic Approval Number 1102015407
+Search for COSC 2425 classes
+
+Course Number: COSC 2436 (4 Credit Hours)
+Listed by Campus(es): BHC, EFC, ECC, MVC, NLC, RLC
+Course Title:Programming Fundamentals III
+This is a Texas Common Course Number.
+Prerequisite Required: COSC 1437.
+Course Description: Further applications of programming techniques, introducing the fundamental concepts of data structures and algorithms. Topics include recursion, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), and algorithmic analysis. This course may use instructional examples and assignments from various programming languages, including but not limited to C, Objective-C, C++, C#, and/or Java. COSC 2436 will satisfy the Associate in Sciences degree general elective requirement. This course will fulfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (3 Lec., 3 Lab.)
+Coordinating Board Academic Approval Number 1102015707
+Search for COSC 2436 classes
+
+ACGM (Lower-Division Academic Course Guide Manual) Courses
+Designated by the Texas Higher Education Coordinating Board for general academic transfer among community, state, and technical colleges in Texas; and state public four-year colleges and universities as freshman and sophomore general education courses.
+
+WECM (Workforce Education Course Manual) Courses
+Designated by the Texas Higher Education Coordinating Board as workforce education (technical) courses offered for credit and CEUs (Continuing Education Units). While these courses are designed to transfer among state community colleges, they are not designed to automatically transfer to public four-year colleges and universities.
+
+Course Description Index | Degree Plans
+Course Description Help Page
